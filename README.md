@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Introduction to RoR basics following this video from DHH:
 
-Things you may want to cover:
+[![Rails 5: The Tour](https://img.youtube.com/vi/OaDhY_y8WTo/hqdefault.jpg)](https://www.youtube.com/watch?v=OaDhY_y8WTo)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
